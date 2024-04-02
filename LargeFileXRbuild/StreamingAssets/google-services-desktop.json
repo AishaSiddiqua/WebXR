@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "765707637182",
+    "firebase_url": "https://neovu-vr-dev-default-rtdb.firebaseio.com",
+    "project_id": "neovu-vr-dev",
+    "storage_bucket": "neovu-vr-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765707637182:android:546a1b469043fae57fe9ef",
+        "android_client_info": {
+          "package_name": "com.neorobotics.NeoVU"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765707637182-9v91bpe3m6anmthcou25nesljdkg0up9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neorobotics.NeoVU",
+            "certificate_hash": "0e6a00e5800271434ae8cd01759698dbbc81ef37"
+          }
+        },
+        {
+          "client_id": "765707637182-lh5u5rum2c47v6iqorl3sbmij0kmutkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Tmv597-PCwRtZzPp871lVK2V75a1ooc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765707637182-lh5u5rum2c47v6iqorl3sbmij0kmutkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
